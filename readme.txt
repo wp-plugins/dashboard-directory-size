@@ -35,6 +35,9 @@ Find us on [GitHub](https://github.com/petenelson/dashboard-directory-size)
 
 == Upgrade Notice ==
 
+= v1.1.0 May 29, 2015 =
+* Added the ability to show the WordPress database size
+
 = v1.0.0 April 28, 2015 =
 * Initial release
 
